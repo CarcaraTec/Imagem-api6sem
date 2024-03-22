@@ -26,6 +26,17 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
 
 ## 📅 **SPRINTS SCHEDULE**
 
+- [x] **Kickoff** - 04/03/2024 to 08/03/2024
+
+- [ ] **SPRINT 1** - 25/03/2024 to 14/04/2024
+
+- [ ] **SPRINT 2** - 15/04/2024 to 05/05/2024
+
+- [ ] **SPRINT 3** - 06/05/2024 to 26/05/2024
+
+- [ ] **SPRINT 4** - 27/05/2024 to 16/06/2024
+
+
 ## 🎯 **BACKLOG**
 
 ## Mockup
