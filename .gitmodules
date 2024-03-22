@@ -1,0 +1,6 @@
+[submodule "back-end"]
+	path = back-end
+	url = https://github.com/CarcaraTec/Imagem_back
+[submodule "front-end"]
+	path = front-end
+	url = https://github.com/CarcaraTec/Imagem_front
