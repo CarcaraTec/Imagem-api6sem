@@ -28,7 +28,7 @@ Non-Functional Requirements
 ## Integrantes
 | Função                 | Usuário GitHub                                     | Nome                   |
 |------------------------|----------------------------------------------------|------------------------|
-| Scrum Master           |                                                    |                        |
+| Scrum Master           | [Daniloel](https://github.com/Daniloel)            | Danilo Verginio         |
 | Product Owner          | [Pedrolucasrd](https://github.com/Pedrolucasrd)    | Pedro Lucas Rodrigues  |
 | Team dev               | [alantrs](https://github.com/alantrs)              | Alan Araujo Rodrigues |
 | Team dev               | [igorsuzuki99](https://github.com/igorsuzuki99)    | Igor Suzuki Kira      |
