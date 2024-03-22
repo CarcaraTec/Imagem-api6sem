@@ -1,6 +1,0 @@
-[submodule "Imagem_front"]
-	path = Imagem-Front
-	url = https://github.com/CarcaraTec/Imagem_front
-[submodule "Imagem_Back"]
-	path = Imagem-Back
-	url = https://github.com/CarcaraTec/Imagem_back
