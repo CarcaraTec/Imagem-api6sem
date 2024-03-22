@@ -8,10 +8,19 @@
 
 ## ✏️ **CHALLENGE**
 
-Functional Requirements
----
-Non-Functional Requirements
----
+The challenge is to develop an advanced platform to collect, analyze, and visualize data from online reviews using sentiment analysis, non-relational database storage, and machine learning technologies. The goal is to provide businesses with precise insights into customer perception, enabling adjustments in marketing strategies, product development, and customer service, with a focus on adapting to the digital economy and strengthening relationships with consumers worldwide.
+
+`Functional Requirements`
+- Geolocated Sentiment Visualization
+- Authentication and Session Management
+- Multisource Reviews Integration
+- Data Storage and Management
+- Data Visualization and Reporting
+
+`Non-Functional Requirements`
+- Compliance and Security
+- Interoperability and Integration
+- Performance and Scalability
 
 ## Solution
 
