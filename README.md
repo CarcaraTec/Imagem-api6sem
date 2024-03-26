@@ -54,3 +54,4 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
 | Team dev               | [igorsuzuki99](https://github.com/igorsuzuki99)    | Igor Suzuki Kira      |
 | Team dev               | [LucasMonteiiroo](https://github.com/LucasMonteiiroo)| Lucas Monteiro      |
 | Team dev               | [WesFerreira](https://github.com/WesFerreira)      | Wesley Ferreira         |
+| Team dev               | [BahijJihadNoureddine](https://github.com/BahijJihadNoureddine)  | Bahij Jihad Noureddine   |
