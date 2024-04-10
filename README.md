@@ -28,7 +28,7 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
 
 - [x] **Kickoff** - 04/03/2024 to 08/03/2024
 
-- [ ] **SPRINT 1** - 25/03/2024 to 14/04/2024
+- [X] **SPRINT 1** - 25/03/2024 to 14/04/2024
 
 - [ ] **SPRINT 2** - 15/04/2024 to 05/05/2024
 
