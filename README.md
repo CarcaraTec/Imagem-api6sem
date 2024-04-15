@@ -42,54 +42,45 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
   <thead>
     <tr>
       <th>Requirement</th>
-      <th>Priority</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><p>Identify relevant data sources for sentiment analysis.</p>
-      <td>High</td>
     </tr>
     <tr>
       <td>
         <p>Acquire suitable data sets for model training.</p>
       </td>
-      <td>High</td>
     </tr>
     <tr>
       <td>
         <p>Perform initial data cleaning, removing noise and irrelevant data.</p>
       </td>
-      <td>Medium</td>
     </tr>
     <tr>
       <td>
         <p>Select sentiment analysis algorithms suited to the project’s needs.</p>
       </td>
-      <td>Medium</td>
     </tr>
     <tr>
       <td>
         <p>Develop and train machine learning models using the prepared datasets.</p>
       </td>
-      <td>Medium</td>
     </tr>
     <tr>
       <td>
         <p>Configure Folium access for geographic mapping.</p>
       </td>
-      <td>Low</td>
     </tr>
     <tr>
       <td>
         <p>Design and develop the user interface to display sentiment analysis results geographically.</p>
       </td>
-      <td>Low</td>
     </tr>
    <td>
         <p>Design and develop the user interface to display sentiment analysis results geographically.</p>
       </td>
-      <td>Low</td>
     </tr>
   </tbody>
 </table>
