@@ -94,7 +94,7 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
   </tbody>
 </table>
 
-## Backlog
+## 🎯 **BACKLOG**
 <table>
   <thead>
     <tr>
@@ -113,30 +113,30 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
     </tr>
     <tr>
       <td><p>Develop and train machine learning models to process data and perform sentiment analysis.</p></td>
-      <td>Medium</td>
+      <td>High</td>
     </tr>
     <tr>
       <td><p>Select suitable algorithms and train them using prepared datasets.</p></td>
-      <td>Medium</td>
+      <td>High</td>
     </tr>
     <tr>
-      <td><p>Implement integration with the Google Maps API for geographical data visualization as per client needs.</p></td>
-      <td>Low</td>
+      <td><p>Implement integration with the Folium library for geographical data visualization as per client needs.</p></td>
+      <td>High</td>
     </tr>
     <tr>
       <td><p>Integrate the ChatGPT API for sentiment analysis and generation of relevant insights based on provided data.</p></td>
-      <td>Low</td>
+      <td>Medium</td>
     </tr>
     <tr>
       <td><p>Develop data visualizations based on Business Intelligence (BI) analysis to display sentiments comprehensively.</p></td>
-      <td>Low</td>
+      <td>Medium</td>
     </tr>
     <tr>
       <td><p>Evaluate the accuracy and effectiveness of sentiment models using metrics such as accuracy, precision, recall, and F1-score.</p></td>
       <td>Medium</td>
     </tr>
     <tr>
-      <td><p>Conduct integration tests to ensure efficient communication between Google Maps, ChatGPT APIs, and the system.</p></td>
+      <td><p>Conduct integration tests to ensure efficient communication between Folium, ChatGPT APIs, and the system.</p></td>
       <td>Medium</td>
     </tr>
     <tr>
@@ -145,10 +145,11 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
     </tr>
     <tr>
       <td><p>Develop a mechanism for users to sign terms of use compliant with LGPD guidelines.</p></td>
-      <td>Medium</td>
+      <td>Low</td>
     </tr>
   </tbody>
 </table>
+
 
 
 ## Mockup
