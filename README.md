@@ -162,6 +162,7 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
 
 
 ## Burndown 
+![Alt text](images/sprint01.png)
 
 ## 💻 **TECHNOLOGY AND TOOLS**
 
