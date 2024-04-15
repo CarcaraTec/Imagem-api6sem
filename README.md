@@ -40,11 +40,12 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
 ## 🎯 **BACKLOG**
 
 ## Mockup
-Sprint 1
+**Sprint 1**
 ![Alt text](images/imagemDashboard.jpeg)
 
-Mapa deLocalização
-![Alt text](images/imagemMapaDeCalor.jpeg)
+
+**Heatmap**
+![Alt text](images/imagemCalor.jpeg)
 
 
 
