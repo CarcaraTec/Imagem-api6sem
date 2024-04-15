@@ -26,7 +26,7 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
 
 ## 📅 **SPRINTS SCHEDULE**
 
-- [ ] **Kickoff** - 04/03/2024 to 08/03/2024
+- [X] **Kickoff** - 04/03/2024 to 08/03/2024
 
 - [X] **SPRINT 1** - 25/03/2024 to 14/04/2024
 
@@ -40,6 +40,13 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
 ## 🎯 **BACKLOG**
 
 ## Mockup
+Sprint 1
+![Alt text](images/imagemDashboard.jpeg)
+
+Mapa deLocalização
+![Alt text](images/imagemMapaDeCalor.jpeg)
+
+
 
 ## Burndown 
 
