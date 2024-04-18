@@ -134,10 +134,7 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
       <td><p>Implement access management system with permission controls to ensure data security and privacy compliance with LGPD regulations.</p></td>
       <td>Medium</td>
     </tr>
-    <tr>
-      <td><p>Develop a mechanism for users to sign terms of use compliant with LGPD guidelines.</p></td>
-      <td>Low</td>
-    </tr>
+   
   </tbody>
 </table>
 
@@ -148,7 +145,7 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
 ![Alt text](images/imagemDashboard.jpeg)
 
 
-**Heatmap**
+**Heat map**
 ![Alt text](images/imagemCalor.jpeg)
 
 
@@ -157,6 +154,34 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
 ![Alt text](images/sprint01.png)
 
 ## 💻 **TECHNOLOGY AND TOOLS**
+
+<details>
+<summary>Back-End</summary>
+ 
+- `Pyhton`
+- `Spring`
+
+</details>
+
+<details>
+<summary>Front-End</summary>
+
+- `Vue`
+</details>
+
+<details>
+<summary>Database</summary>
+
+- `MongoDB`
+</details>
+
+<details>
+<summary>Tools</summary>
+
+- `Intellij`
+- `Visual Studio code`
+
+</details>
 
 ## Integrantes
 | Função                 | Usuário GitHub                                     | Nome                   |
@@ -168,3 +193,5 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
 | Team dev               | [LucasMonteiiroo](https://github.com/LucasMonteiiroo)| Lucas Monteiro      |
 | Team dev               | [WesFerreira](https://github.com/WesFerreira)      | Wesley Ferreira         |
 | Team dev               | [BahijJihadNoureddine](https://github.com/BahijJihadNoureddine)  | Bahij Jihad Noureddine   |
+
+![logoparceria](https://github.com/CarcaraTec/Imagem-api6sem/blob/main/images/logo%20fatec.png)
