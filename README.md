@@ -194,4 +194,4 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
 | Team dev               | [WesFerreira](https://github.com/WesFerreira)      | Wesley Ferreira         |
 | Team dev               | [BahijJihadNoureddine](https://github.com/BahijJihadNoureddine)  | Bahij Jihad Noureddine   |
 
-![logoparceria](https://github.com/CarcaraTec/Imagem-api6sem/blob/main/images/logo%20fatec.png)
+![logoparceria](https://github.com/CarcaraTec/Imagem-api6sem/blob/main/images/Logo_parceria.png)
