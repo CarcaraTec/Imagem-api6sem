@@ -1,9 +1,4 @@
-<h4 align="center"> 
- <a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a>
- <a href="https://spring.io/"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/></a>
- <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></a>
- <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/></a>
-</h4>
+
 
 
 ## ✏️ **CHALLENGE**
@@ -30,7 +25,7 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
 
 - [X] **SPRINT 1** - 25/03/2024 to 14/04/2024
 
-- [ ] **SPRINT 2** - 15/04/2024 to 05/05/2024
+- [X] **SPRINT 2** - 15/04/2024 to 05/05/2024
 
 - [ ] **SPRINT 3** - 06/05/2024 to 26/05/2024
 
@@ -77,11 +72,7 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
       <td>
         <p>Design and develop the user interface to display sentiment analysis results geographically.</p>
       </td>
-    </tr>
-   <td>
-        <p>Design and develop the user interface to display sentiment analysis results geographically.</p>
-      </td>
-    </tr>
+   
   </tbody>
 </table>
 
@@ -157,29 +148,48 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
 
 <details>
 <summary>Back-End</summary>
- 
-- `Pyhton`
-- `Spring`
+<h4 align="left"> 
+ <a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a>
+ <a href="https://spring.io/"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/></a>
+ <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/></a>
+</h4>
 
 </details>
 
 <details>
 <summary>Front-End</summary>
+<h4 align="left"> 
+ <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></a>
 
-- `Vue`
+</h4>
 </details>
 
 <details>
 <summary>Database</summary>
 
-- `MongoDB`
+<h4 align="left"> 
+  <a href="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge">
+  </a>
+  <a href="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
+  </a>
+</h4>
+
+
 </details>
 
 <details>
 <summary>Tools</summary>
 
-- `Intellij`
-- `Visual Studio code`
+<h4 align="left"> 
+  <a href="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
+  <a href="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+  </a>
+</h4>
 
 </details>
 
