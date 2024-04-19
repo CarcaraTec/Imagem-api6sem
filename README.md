@@ -2,8 +2,11 @@
 
 
 ## ✏️ **CHALLENGE**
-
+<div align="justify">
 The challenge is to develop an advanced platform to collect, analyze, and visualize data from online reviews using sentiment analysis, non-relational database storage, and machine learning technologies. The goal is to provide businesses with precise insights into customer perception, enabling adjustments in marketing strategies, product development, and customer service, with a focus on adapting to the digital economy and strengthening relationships with consumers worldwide.
+</div>
+
+<br>
 
 `Functional Requirements`
 - Geolocated Sentiment Visualization
@@ -18,6 +21,10 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
 - Performance and Scalability
 
 ## Solution
+<div align="justify">
+  The solution is to develop an AI for sentiment analysis, aimed at evaluating a network of hotels and determining the satisfaction index of its customers, generating heatmaps and location maps. Additionally, the requirements of LGPD will be implemented in this project.
+</div>
+
 
 ## 📅 **SPRINTS SCHEDULE**
 
