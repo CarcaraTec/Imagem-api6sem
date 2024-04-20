@@ -22,7 +22,7 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
 
 ## Solution
 <div align="justify">
-  The solution is to develop an AI for sentiment analysis, aimed at evaluating a network of hotels and determining the satisfaction index of its customers, generating heatmaps and location maps. Additionally, the requirements of LGPD will be implemented in this project.
+ Developing an AI solution for sentiment analysis, aimed at evaluating a hotel network and determining its customers' satisfaction index, generating heat maps and location maps. Additionally, the requirements of the LGPD will be implemented in this project.
 </div>
 
 
