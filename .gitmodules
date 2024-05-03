@@ -9,4 +9,4 @@
 	url = https://github.com/CarcaraTec/Imagem_ML.git
 [submodule "backend_security"]
 	path = backend_security
-	url = https://github.com/CarcaraTec/imagem_backend_security
+	url = https://github.com/CarcaraTec/imagem_backend_security.git
