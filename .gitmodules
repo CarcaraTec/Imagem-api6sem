@@ -10,3 +10,6 @@
 [submodule "backend_security"]
 	path = backend_security
 	url = https://github.com/CarcaraTec/imagem_backend_security.git
+[submodule "imagem_ia"]
+	path = imagem_ia
+	url = https://github.com/CarcaraTec/imagem_ia.git
