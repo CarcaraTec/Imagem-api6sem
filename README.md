@@ -141,7 +141,7 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
 ## Mockup
 <a href="images/imagemDashboard.jpeg" target="_blank">Sprint 1</a>
 
-<a href="images/imagemDashboard.jpeg" target="_blank">Sprint 2</a>
+<a href="documentation/images_Sprint2/mockupSprint_2.png" target="_blank">Sprint 2</a>
 
 ## Burndown 
 <a href="images/sprint01.png" target="_blank">Sprint 1</a>
