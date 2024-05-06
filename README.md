@@ -38,51 +38,6 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
 
 - [ ] **SPRINT 4** - 27/05/2024 to 16/06/2024
 
-
-## 🎯 **SPRINT BACKLOG**
-<table>
-  <thead>
-    <tr>
-      <th>Requirement</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><p>Identify relevant data sources for sentiment analysis.</p>
-    </tr>
-    <tr>
-      <td>
-        <p>Acquire suitable data sets for model training.</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <p>Perform initial data cleaning, removing noise and irrelevant data.</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <p>Select sentiment analysis algorithms suited to the project’s needs.</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <p>Develop and train machine learning models using the prepared datasets.</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <p>Configure Folium access for geographic mapping.</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <p>Design and develop the user interface to display sentiment analysis results geographically.</p>
-      </td>
-   
-  </tbody>
-</table>
-
 ## 🎯 **BACKLOG**
 <table>
   <thead>
@@ -131,6 +86,85 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
     <tr>
       <td><p>Implement access management system with permission controls to ensure data security and privacy compliance with LGPD regulations.</p></td>
       <td>Medium</td>
+    </tr>
+    <tr>
+      <td><p>Improvement of the Machine Learning model.</p></td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td><p>Generate more insights on hotel reviews and trends.</p></td>
+      <td>Medium</td>
+    </tr>
+   
+  </tbody>
+</table>
+
+## 🎯 **SPRINT BACKLOG**
+
+**Sprint 01**
+<table>
+  <thead>
+    <tr>
+      <th>Requirement</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><p>Identify relevant data sources for sentiment analysis.</p>
+    </tr>
+    <tr>
+      <td>
+        <p>Acquire suitable data sets for model training.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>Perform initial data cleaning, removing noise and irrelevant data.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>Select sentiment analysis algorithms suited to the project’s needs.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>Develop and train machine learning models using the prepared datasets.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>Configure Folium access for geographic mapping.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>Design and develop the user interface to display sentiment analysis results geographically.</p>
+      </td>
+   
+  </tbody>
+</table>
+
+**Sprint 02**
+<table>
+  <thead>
+    <tr>
+      <th>Requirement</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><p>Improvement of the Machine Learning model.</p>
+    </tr>
+    <tr>
+      <td>
+        <p>Integration with AI to generate text-based solutions.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>Generate more insights on hotel reviews and trends.</p>
+      </td>
     </tr>
    
   </tbody>
