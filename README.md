@@ -139,22 +139,12 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
 
 
 ## Mockup
-**Sprint 1**
-![Alt text](images/imagemDashboard.jpeg)
-
 <a href="images/imagemDashboard.jpeg" target="_blank">Sprint 1</a>
 
-
-
-
-
-**Heat map**
-![Alt text](images/imagemCalor.jpeg)
-
-
+<a href="images/imagemDashboard.jpeg" target="_blank">Sprint 2</a>
 
 ## Burndown 
-![Alt text](images/sprint01.png)
+<a href="images/sprint01.png" target="_blank">Sprint 1</a>
 
 ## 💻 **TECHNOLOGY AND TOOLS**
 
