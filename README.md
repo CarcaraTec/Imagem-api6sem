@@ -166,6 +166,11 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
         <p>Generate more insights on hotel reviews and trends.</p>
       </td>
     </tr>
+    <tr>
+      <td>
+        <p>Implement access management system.</p>
+      </td>
+    </tr>
    
   </tbody>
 </table>
