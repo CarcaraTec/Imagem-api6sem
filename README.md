@@ -185,7 +185,7 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
 
 ## Burndown 
 
-<a href="documentation/ImagesSprint2/sprint01.png" target="_blank">Sprint 1</a>
+<a href="documentation/ImagesSprint1/sprint01.png" target="_blank">Sprint 1</a>
 
 <a href="documentation/ImagesSprint2/burndownSprint_2.png" target="_blank">Sprint 2</a>
 
