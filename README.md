@@ -184,10 +184,6 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
 
 <a href="documentation/ImagesSprint3/mockupSprint3" target="_blank">Sprint 3</a>
 
-<a href="https://github.com/CarcaraTec/Imagem-api6sem/tree/main/documentation/ImagesSprint3/mockupSprint3" target="_blank">Sprint 3</a>
-
-
-
 
 
 ## Burndown 
