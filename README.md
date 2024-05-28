@@ -175,7 +175,55 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
   </tbody>
 </table>
 
+**Sprint 03**
+<table>
+  <thead>
+    <tr>
+      <th>Requirement</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><p>Access management</p>
+    </tr>
+    <tr>
+      <td>
+        <p>Implementation of business intelligence.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>V3 Training Model.</p>
+      </td>
+    </tr>
+   
+  </tbody>
+</table>
 
+**Sprint 04**
+<table>
+  <thead>
+    <tr>
+      <th>Requirement</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><p>Analysis of Sentiment Trends Over Time and Behavior Patterns.</p>
+    </tr>
+    <tr>
+      <td>
+        <p>Update and document the code, perform security tests and implement bug fixes and optimizations.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>V4 Training Model.</p>
+      </td>
+    </tr>
+   
+  </tbody>
+</table>
 
 ## Mockup
 <a href="documentation/ImagesSprint1/imagemDashboard.jpeg" target="_blank">Sprint 1</a>
