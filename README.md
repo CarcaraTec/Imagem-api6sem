@@ -36,7 +36,7 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
 
 - [X] **SPRINT 3** - 06/05/2024 to 26/05/2024
 
-- [ ] **SPRINT 4** - 27/05/2024 to 16/06/2024
+- [X] **SPRINT 4** - 27/05/2024 to 16/06/2024
 
 ## 🎯 **BACKLOG**
 <table>
@@ -209,7 +209,7 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
   </thead>
   <tbody>
     <tr>
-      <td><p>Analysis of Sentiment Trends Over Time and Behavior Patterns.</p>
+      <td><p>Implementation of LGPD features.</p>
     </tr>
     <tr>
       <td>
