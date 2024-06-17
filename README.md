@@ -244,7 +244,7 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
 
 <a href="documentation/ImagesSprint3/boundownSprint3.png" target="_blank">Sprint 3</a>
 
-<a href="documentation/ImagesSprint4/boundownSprint4.png" target="_blank">Sprint 4</a>
+<a href="documentation/ImagesSprint4/images_Sprint4" target="_blank">Sprint 4</a>
 
 
 ## 💻 **TECHNOLOGY AND TOOLS**
