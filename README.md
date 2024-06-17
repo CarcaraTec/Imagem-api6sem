@@ -36,7 +36,7 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
 
 - [X] **SPRINT 3** - 06/05/2024 to 26/05/2024
 
-- [ ] **SPRINT 4** - 27/05/2024 to 16/06/2024
+- [X] **SPRINT 4** - 27/05/2024 to 16/06/2024
 
 ## 🎯 **BACKLOG**
 <table>
@@ -175,14 +175,64 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
   </tbody>
 </table>
 
+**Sprint 03**
+<table>
+  <thead>
+    <tr>
+      <th>Requirement</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><p>Access management</p>
+    </tr>
+    <tr>
+      <td>
+        <p>Implementation of business intelligence.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>V3 Training Model.</p>
+      </td>
+    </tr>
+   
+  </tbody>
+</table>
 
+**Sprint 04**
+<table>
+  <thead>
+    <tr>
+      <th>Requirement</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><p>Implementation of LGPD features.</p>
+    </tr>
+    <tr>
+      <td>
+        <p>Update and document the code, perform security tests and implement bug fixes and optimizations.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>V4 Training Model.</p>
+      </td>
+    </tr>
+   
+  </tbody>
+</table>
 
 ## Mockup
-<a href="documentation/ImagesSprint1/imagemDashboard.jpeg" target="_blank">Sprint 1</a>
+<a href="documentation/ImagesSprint1" target="_blank">Sprint 1</a>
 
-<a href="documentation/ImagesSprint2/mockupSprint_2.png" target="_blank">Sprint 2</a>
+<a href="documentation/ImagesSprint2" target="_blank">Sprint 2</a>
 
-<a href="documentation/ImagesSprint3/mockupSprint3" target="_blank">Sprint 3</a>
+<a href="documentation/ImagesSprint3" target="_blank">Sprint 3</a>
+
+<a href="documentation/ImagesSprint4" target="_blank">Sprint 4</a>
 
 
 
@@ -193,6 +243,8 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
 <a href="documentation/ImagesSprint2/burndownSprint_2.png" target="_blank">Sprint 2</a>
 
 <a href="documentation/ImagesSprint3/boundownSprint3.png" target="_blank">Sprint 3</a>
+
+<a href="documentation/ImagesSprint4/images_Sprint4/burndownSprint4.png" target="_blank">Sprint 4</a>
 
 
 ## 💻 **TECHNOLOGY AND TOOLS**
