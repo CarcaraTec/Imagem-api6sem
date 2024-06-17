@@ -1,8 +1,10 @@
 
-![MAPA DE CALOR](https://github.com/CarcaraTec/Imagem-api6sem/blob/main//documentation/Images/Logo_parceria.png)
+![imagemCalor](https://github.com/CarcaraTec/Imagem-api6sem/blob/main//documentation/ImagesSprint1/imagemCalor.jpeg)
 
-<a href="documentation/ImagesSprint1/sprint01.png" target="_blank">Foto_02</a>
+![mapaLoc](https://github.com/CarcaraTec/Imagem-api6sem/blob/main//documentation/ImagesSprint1/imagemMapaLoc.jpeg)
 
-<a href="documentation/ImagesSprint1/sprint01.png" target="_blank">Foto_03</a>
+![dashboard](https://github.com/CarcaraTec/Imagem-api6sem/blob/main//documentation/ImagesSprint1/imagemDashboard.jpeg)
 
-<a href="documentation/ImagesSprint1/sprint01.png" target="_blank">Foto_04</a>
+![burndown](https://github.com/CarcaraTec/Imagem-api6sem/blob/main//documentation/ImagesSprint1/sprint01.png)
+
+
