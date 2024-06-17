@@ -232,6 +232,8 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
 
 <a href="documentation/ImagesSprint3/mockupSprint3" target="_blank">Sprint 3</a>
 
+<a href="documentation/ImagesSprint4/mockupSprint4" target="_blank">Sprint 4</a>
+
 
 
 ## Burndown 
@@ -241,6 +243,8 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
 <a href="documentation/ImagesSprint2/burndownSprint_2.png" target="_blank">Sprint 2</a>
 
 <a href="documentation/ImagesSprint3/boundownSprint3.png" target="_blank">Sprint 3</a>
+
+<a href="documentation/ImagesSprint4/boundownSprint4.png" target="_blank">Sprint 4</a>
 
 
 ## 💻 **TECHNOLOGY AND TOOLS**
