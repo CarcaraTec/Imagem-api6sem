@@ -226,13 +226,13 @@ The challenge is to develop an advanced platform to collect, analyze, and visual
 </table>
 
 ## Mockup
-<a href="documentation/ImagesSprint1/imagemDashboard.jpeg" target="_blank">Sprint 1</a>
+<a href="documentation/ImagesSprint1" target="_blank">Sprint 1</a>
 
-<a href="documentation/ImagesSprint2/mockupSprint_2.png" target="_blank">Sprint 2</a>
+<a href="documentation/ImagesSprint2" target="_blank">Sprint 2</a>
 
-<a href="documentation/ImagesSprint3/mockupSprint3" target="_blank">Sprint 3</a>
+<a href="documentation/ImagesSprint3" target="_blank">Sprint 3</a>
 
-<a href="documentation/ImagesSprint4/mockupSprint4" target="_blank">Sprint 4</a>
+<a href="documentation/ImagesSprint4" target="_blank">Sprint 4</a>
 
 
 
